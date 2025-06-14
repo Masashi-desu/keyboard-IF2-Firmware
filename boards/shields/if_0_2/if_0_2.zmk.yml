@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: if_0_2
+name: if_0_2
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - if_0_2_left
+  - if_0_2_right
